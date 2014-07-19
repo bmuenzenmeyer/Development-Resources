@@ -9,6 +9,8 @@ My curated lists of useful stuff
 * [Subheading Styling](http://blog.typekit.com/2013/07/25/setting-subheads-with-css/)
 * [Typograph - realtime type scaling](http://lamb.cc/typograph/)
 * [Typographic Style Applied to WEb](http://webtypography.net/toc/)
+* [Republic Gothic](http://www.p22.com/family-Republic_Gothic)
+* [Unit Gothic](http://www.p22.com/family-Unit_Gothic)
 
 ##CSS
 * [Absolute Centering](http://codepen.io/shshaw/full/gEiDt)
@@ -54,7 +56,7 @@ My curated lists of useful stuff
 * [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
 * [Interface Inventory](http://bradfrostweb.com/blog/post/interface-inventory/)
 * [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
-* 
+* [The ULTIMATE List of 24 Free eBooks on UX and Interface Design](http://www.usefulusability.com/the-ultimate-list-of-24-free-ebooks-on-ux-and-interface-design/) 
 
 ##News
 * [Web Design Weekly](http://web-design-weekly.com/)
@@ -88,11 +90,12 @@ My curated lists of useful stuff
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
-* 
+* [More Google Web Fonts](http://sachagreif.com/more-google-webfonts-that-dont-suck/)
 
 ##Video / Presentations
 * [Curated Videos](http://www.videry.me/)
 * [RWD](https://speakerdeck.com/malarkey/fashionably-flexible-responsive-web-design-full-day-workshop-from-new-adventures-january-2013)
+* [Responsive in the Wild](http://speedcurve.com/blog/velocity-responsive-in-the-wild/?goal=0_df65b6d7c8-3b8d4130b5-59004361&utm_campaign=3b8d4130b5-Responsive_Design_Weekly_117&utm_medium=email&utm_source=Responsive+Design+Weekly&utm_term=0_df65b6d7c8-3b8d4130b5-59004361)
 
 ##Random Blog Posts
 * [Design Check Lists](http://adrien-heury.net/designers-checklists/index.html)
