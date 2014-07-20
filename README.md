@@ -35,7 +35,9 @@ My curated lists of useful stuff
 * [BBC GEL](http://www.bbc.co.uk/gel)
 * [Style Guides are the new Photo Shop](http://www.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-smashing-conference-2012)
 * [Styleguide and Boilerplate Comparison](https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0)
-* 
+
+##Development
+* [External Repository Submodules](http://stackoverflow.com/questions/2140985/how-to-set-up-a-git-project-to-use-an-external-repo-submodule)
 
 ##Tutorials
 * [HSLA Colors](http://demosthenes.info/blog/61/An-Easy-Guide-To-HSL-Color-In-CSS3)
@@ -107,6 +109,7 @@ My curated lists of useful stuff
 * [Blog Typography](http://www.kaikkonendesign.fi/typography/)
 * [Colours](http://webcolourdata.com/)
 * [Shame.css](http://csswizardry.com/2013/04/shame-css/) A place to put your quick fix css after launch
+* [What Screens Want](http://frankchimero.com/what-screens-want/)
 
 ##Quotes
 
