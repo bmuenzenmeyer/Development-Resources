@@ -18,6 +18,7 @@ My curated lists of useful stuff
 * [Collapsing Header](http://line25.com/tutorials/how-to-create-a-simple-collapsing-header-effect)
 * [Background Size](http://codepen.io/herihehe/full/aLwGt)
 * [Breadcrumbs](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
+* [Using Flexbox Now](http://designkarma.co.uk/blog/using-flexbox-now)
 
 ##Javascript / jQuery
 * [JSONP](http://rambleabouttech.blogspot.com/2012/08/jquery-json-vs-jsonp-using-nodejs.html)
@@ -47,6 +48,7 @@ My curated lists of useful stuff
 * [Lipsums, especially Arrested Development!](http://meettheipsums.com/)
 * [Icomoon Icon Font Generator](http://icomoon.io/app/)
 * [PDF to HTML](http://coolwanglu.github.io/pdf2htmlEX/)
+* [Paletton Color Picker](http://www.paletton.com/)
 
 ##RWD
 * [Selling Responsive Design](http://alistapart.com/article/client-relationships-and-the-multi-device-web)
