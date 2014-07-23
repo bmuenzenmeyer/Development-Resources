@@ -19,6 +19,10 @@ My curated lists of useful stuff
 * [Background Size](http://codepen.io/herihehe/full/aLwGt)
 * [Breadcrumbs](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
 * [Using Flexbox Now](http://designkarma.co.uk/blog/using-flexbox-now)
+* [Flexbox in the Real World](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/?utm_campaign=e35f9ff71b-Responsive_Design_Weekly_102&utm_medium=email&utm_source=Responsive+Design+Weekly&utm_term=0_df65b6d7c8-e35f9ff71b-59004361)
+
+#SCSS
+* [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
 
 ##Javascript / jQuery
 * [JSONP](http://rambleabouttech.blogspot.com/2012/08/jquery-json-vs-jsonp-using-nodejs.html)
@@ -26,6 +30,7 @@ My curated lists of useful stuff
 * [Typeahead](http://twitter.github.io/typeahead.js/)
 * [Mobify](http://www.mobify.com/mobifyjs/) image resizing
 * [Responsive Carousel](http://bxslider.com/)
+* [Human Javascript](http://read.humanjavascript.com/index.html) Gitbook
 
 ##Performance
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
@@ -39,16 +44,23 @@ My curated lists of useful stuff
 
 ##Development
 * [External Repository Submodules](http://stackoverflow.com/questions/2140985/how-to-set-up-a-git-project-to-use-an-external-repo-submodule)
+* [Code Guide](http://mdo.github.io/code-guide/) Front End Best Practices
 
 ##Tutorials
 * [HSLA Colors](http://demosthenes.info/blog/61/An-Easy-Guide-To-HSL-Color-In-CSS3)
 
-##Apps / Sites
+SEO
 * [SEO Tools](http://www.netmagazine.com/features/30-best-new-seo-tools)
+* [Social Meta Tags](http://read.humanjavascript.com/index.html)
+
+##Apps / Sites
 * [Lipsums, especially Arrested Development!](http://meettheipsums.com/)
 * [Icomoon Icon Font Generator](http://icomoon.io/app/)
+* [Iconmelon](http://iconmelon.com) SVG Icons
 * [PDF to HTML](http://coolwanglu.github.io/pdf2htmlEX/)
 * [Paletton Color Picker](http://www.paletton.com/)
+* [Finch](https://meetfinch.com) - View Local websites on any internet connected device
+* [SnazzyMaps](http://snazzymaps.com/)
 
 ##RWD
 * [Selling Responsive Design](http://alistapart.com/article/client-relationships-and-the-multi-device-web)
