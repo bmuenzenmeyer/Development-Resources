@@ -55,18 +55,19 @@ SEO
 
 ##Apps / Sites
 * [Lipsums, especially Arrested Development!](http://meettheipsums.com/)
-* [Icomoon Icon Font Generator](http://icomoon.io/app/)
-* [Iconmelon](http://iconmelon.com) SVG Icons
 * [PDF to HTML](http://coolwanglu.github.io/pdf2htmlEX/)
 * [Paletton Color Picker](http://www.paletton.com/)
+* [Color Monster](http://colormonster.io/)
 * [Finch](https://meetfinch.com) - View Local websites on any internet connected device
 * [SnazzyMaps](http://snazzymaps.com/)
+* [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
 
 ##RWD
 * [Selling Responsive Design](http://alistapart.com/article/client-relationships-and-the-multi-device-web)
 * [Responsive Design Process](http://heliom.ca/blog/posts/a-responsive-web-design-process)
 * [Starting a RWD Project](http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/)
 * [Responsive CSS](http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/)
+* [ESPN Traffic Now Mostly Mobile](http://espnmediazone.com/us/press-releases/2013/10/espn-digital-media-sets-sports-category-record-in-september/)
 
 ##Process/Workflow/Design
 * [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
@@ -76,7 +77,6 @@ SEO
 
 ##News
 * [Web Design Weekly](http://web-design-weekly.com/)
-* 
 
 ##Freelancing/Business
 [Agile Billing](http://www.smashingmagazine.com/2013/01/23/guarantee-income-with-agile-billing/)
@@ -99,6 +99,11 @@ SEO
 * [Matt or Gloss Icon Set](http://momentumdesignlab.com/about/downloads/)
 * [Kitchen Vector](http://zomgimbored.com/2013/01/26/kitchen-cooking-vector-set-free-download/)
 * [Animated Icons](http://codecanyon.net/item/livicons-303-truly-animated-vector-icons/4618985?ref=deethemes) Not free but still cool
+* [Icomoon Icon Font Generator](http://icomoon.io/app/) Icon font generator
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/) Good Icon font
+* [Iconmelon](http://iconmelon.com) SVG Icons
+* [Free Photos](http://www.freephotosbank.com/)
+* [More Free Photos](http://pixelperfectdigital.com/)
 
 ###Standalone Components
 * [Standalone Like Button](http://www.likebtn.com/en/)
