@@ -94,7 +94,7 @@ SEO
 
 ####Graphics/Images/Icons
 * [Unsplash](http://unsplash.com/) sweet! thanks ooomf!
-* [Raumrot](www.raumrot.com/10/) another great curation
+* [Raumrot](http://www.raumrot.com/10/) another great curation
 * [Getty Open Content Images](http://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1) 
 * [User Interface User Placeholder](http://uifaces.com/)
 * [1000 Free Icons](http://sixrevisions.com/freebies/icons/free-icons-1000/)
