@@ -20,6 +20,7 @@ My curated lists of useful stuff
 * [Breadcrumbs](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
 * [Using Flexbox Now](http://designkarma.co.uk/blog/using-flexbox-now)
 * [Flexbox in the Real World](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/?utm_campaign=e35f9ff71b-Responsive_Design_Weekly_102&utm_medium=email&utm_source=Responsive+Design+Weekly&utm_term=0_df65b6d7c8-e35f9ff71b-59004361)
+* [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
@@ -108,6 +109,7 @@ SEO
 ###Standalone Components
 * [Standalone Like Button](http://www.likebtn.com/en/)
 * [Parallax Scrolling Framework](http://jalxob.com/cool-kitten/)
+* [HTML Entities](http://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
