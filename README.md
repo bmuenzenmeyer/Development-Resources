@@ -37,6 +37,7 @@ My curated lists of useful stuff
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
 * [NearlyFreeSpeech gzip workaround](http://ricardomartins.cc/2009/08/11/now-with-70-less-fat.html)
 * [Preventing Custom Font Performance Hit](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
+* [Google Font Performance (Character-Sets](https://developers.google.com/fonts/docs/getting_started)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
