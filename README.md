@@ -69,6 +69,7 @@ SEO
 * [Starting a RWD Project](http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/)
 * [Responsive CSS](http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/)
 * [ESPN Traffic Now Mostly Mobile](http://espnmediazone.com/us/press-releases/2013/10/espn-digital-media-sets-sports-category-record-in-september/)
+* [RWD Bloat](http://daverupert.com/2014/07/rwd-bloat) Debunnked.
 
 ##Process/Workflow/Design
 * [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
