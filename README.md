@@ -38,6 +38,7 @@ My curated lists of useful stuff
 * [NearlyFreeSpeech gzip workaround](http://ricardomartins.cc/2009/08/11/now-with-70-less-fat.html)
 * [Preventing Custom Font Performance Hit](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
 * [Google Font Performance (Character-Sets and Specific Characters)](https://developers.google.com/fonts/docs/getting_started)
+* [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
