@@ -8,7 +8,7 @@ My curated lists of useful stuff
 * [Guide to CSS Font Stacks](http://coding.smashingmagazine.com/2009/09/22/complete-guide-to-css-font-stacks/)
 * [Subheading Styling](http://blog.typekit.com/2013/07/25/setting-subheads-with-css/)
 * [Typograph - realtime type scaling](http://lamb.cc/typograph/)
-* [Typographic Style Applied to WEb](http://webtypography.net/toc/)
+* [Typographic Style Applied to Web](http://webtypography.net/toc/)
 * [Republic Gothic](http://www.p22.com/family-Republic_Gothic)
 * [Unit Gothic](http://www.p22.com/family-Unit_Gothic)
 
@@ -114,6 +114,7 @@ SEO
 * [Standalone Like Button](http://www.likebtn.com/en/)
 * [Parallax Scrolling Framework](http://jalxob.com/cool-kitten/)
 * [HTML Entities](http://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+* [Epic Editor](http://epiceditor.com/) Embeddable JavaScript Markdown Editor
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
@@ -135,6 +136,7 @@ SEO
 * [Colours](http://webcolourdata.com/)
 * [Shame.css](http://csswizardry.com/2013/04/shame-css/) A place to put your quick fix css after launch
 * [What Screens Want](http://frankchimero.com/what-screens-want/)
+* [Why are software development estimates regularly off by a factor of 2-3 times?](http://michaelrwolfe.com/2013/10/19/50/)
 
 ##Quotes
 
