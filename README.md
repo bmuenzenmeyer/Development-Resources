@@ -39,6 +39,7 @@ My curated lists of useful stuff
 * [Preventing Custom Font Performance Hit](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
 * [Google Font Performance (Character-Sets and Specific Characters)](https://developers.google.com/fonts/docs/getting_started)
 * [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
+* [Web Page Test](http://www.webpagetest.org/)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
@@ -64,6 +65,7 @@ SEO
 * [Finch](https://meetfinch.com) - View Local websites on any internet connected device
 * [SnazzyMaps](http://snazzymaps.com/)
 * [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
+* [Image Converter](http://tech.akamai.com/image_converter/)
 
 ##RWD
 * [Selling Responsive Design](http://alistapart.com/article/client-relationships-and-the-multi-device-web)
