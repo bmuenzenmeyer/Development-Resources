@@ -40,6 +40,7 @@ My curated lists of useful stuff
 * [Google Font Performance (Character-Sets and Specific Characters)](https://developers.google.com/fonts/docs/getting_started)
 * [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
 * [Web Page Test](http://www.webpagetest.org/)
+* [Tools for Image Optimization](http://addyosmani.com/blog/image-optimization-tools/)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
@@ -66,6 +67,7 @@ SEO
 * [SnazzyMaps](http://snazzymaps.com/)
 * [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
 * [Image Converter](http://tech.akamai.com/image_converter/)
+* [Noise Texture Generator](http://www.noisetexturegenerator.com/)
 
 ##RWD
 * [Selling Responsive Design](http://alistapart.com/article/client-relationships-and-the-multi-device-web)
@@ -85,12 +87,14 @@ SEO
 * [Web Design Weekly](http://web-design-weekly.com/)
 
 ##Freelancing/Business
-[Agile Billing](http://www.smashingmagazine.com/2013/01/23/guarantee-income-with-agile-billing/)
-[Web Related Registry](http://www.itswebrelated.com/)
+* [Agile Billing](http://www.smashingmagazine.com/2013/01/23/guarantee-income-with-agile-billing/)
+* [Web Related Registry](http://www.itswebrelated.com/)
+* [User Testing](http://www.usertesting.com/) Pay for usability testing, get paid to perform testing.
 
 ##CMSs
 * [Postach.io + Evernote](http://postach.io/) Really simple!
 * [Tumblr](http://tumblr.com) Good for small small things perhaps.
+* [Wordpress Plugins I Use - CSS Tricks](http://css-tricks.com/wordpress-plugins-i-use/)
 
 ##Hosting
 
