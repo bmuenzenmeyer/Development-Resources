@@ -41,6 +41,7 @@ My curated lists of useful stuff
 * [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
 * [Web Page Test](http://www.webpagetest.org/)
 * [Tools for Image Optimization](http://addyosmani.com/blog/image-optimization-tools/)
+* [RWD Performance](http://filamentgroup.com/lab/performance-rwd.html)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
@@ -50,11 +51,12 @@ My curated lists of useful stuff
 ##Development
 * [External Repository Submodules](http://stackoverflow.com/questions/2140985/how-to-set-up-a-git-project-to-use-an-external-repo-submodule)
 * [Code Guide](http://mdo.github.io/code-guide/) Front End Best Practices
+* [Responsive Images \ Picture Element Use Cases](http://dev.opera.com/articles/responsive-images/)
 
 ##Tutorials
 * [HSLA Colors](http://demosthenes.info/blog/61/An-Easy-Guide-To-HSL-Color-In-CSS3)
 
-SEO
+##SEO
 * [SEO Tools](http://www.netmagazine.com/features/30-best-new-seo-tools)
 * [Social Meta Tags](http://read.humanjavascript.com/index.html)
 
