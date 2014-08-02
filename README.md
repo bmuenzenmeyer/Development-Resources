@@ -78,7 +78,8 @@ My curated lists of useful stuff
 * [Starting a RWD Project](http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/)
 * [Responsive CSS](http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/)
 * [ESPN Traffic Now Mostly Mobile](http://espnmediazone.com/us/press-releases/2013/10/espn-digital-media-sets-sports-category-record-in-september/)
-* [RWD Bloat](http://daverupert.com/2014/07/rwd-bloat) Debunnked.
+* [RWD Bloat](http://daverupert.com/2014/07/rwd-bloat) Debunked.
+* [Making ubuntu.com responsive](http://design.canonical.com/2014/03/making-ubuntu-com-responsive/)
 
 ##Process/Workflow/Design
 * [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
@@ -93,7 +94,8 @@ My curated lists of useful stuff
 * [Agile Billing](http://www.smashingmagazine.com/2013/01/23/guarantee-income-with-agile-billing/)
 * [Web Related Registry](http://www.itswebrelated.com/)
 * [User Testing](http://www.usertesting.com/) Pay for usability testing, get paid to perform testing.
-
+* [How We Work - markboulton](http://markboulton.co.uk/journal/how-we-work)
+* 
 ##CMSs
 * [Postach.io + Evernote](http://postach.io/) Really simple!
 * [Tumblr](http://tumblr.com) Good for small small things perhaps.
@@ -137,7 +139,7 @@ My curated lists of useful stuff
 ##Random Blog Posts
 * [Design Check Lists](http://adrien-heury.net/designers-checklists/index.html)
 * [Case Study Showcase](http://www.smashingmagazine.com/2013/07/19/this-is-how-we-built-it-case-studies/)
-* [Chrome Extensions](http://net.tutsplus.com/tutorials/javascript-ajax/developing-google-chrome-extensions/)
+* [Developing Chrome Extensions](http://net.tutsplus.com/tutorials/javascript-ajax/developing-google-chrome-extensions/)
 * [Periodic Table](http://joshduck.com/periodic-table.html)
 * [Wordpress Theme Anatomy](http://yoast.com/wordpress-theme-anatomy/)
 * [Wordpress Theme Customization](http://www.presscoders.com/wordpress-theme-customization-guide/)
