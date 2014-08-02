@@ -11,6 +11,7 @@ My curated lists of useful stuff
 * [Typographic Style Applied to Web](http://webtypography.net/toc/)
 * [Republic Gothic](http://www.p22.com/family-Republic_Gothic)
 * [Unit Gothic](http://www.p22.com/family-Unit_Gothic)
+* [Google Font Explorer](http://codepen.io/katydecorah/pen/vetCA)
 
 ##CSS
 * [Absolute Centering](http://codepen.io/shshaw/full/gEiDt)
