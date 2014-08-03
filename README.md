@@ -43,6 +43,7 @@ My curated lists of useful stuff
 * [Web Page Test](http://www.webpagetest.org/)
 * [Tools for Image Optimization](http://addyosmani.com/blog/image-optimization-tools/)
 * [RWD Performance](http://filamentgroup.com/lab/performance-rwd.html)
+* [Image sprites or data URIs? Icon fonts or SVGs? A Grunt workflow for the ‘gold’ standard](http://benfrain.com/image-sprites-data-uris-icon-fonts-v-svgs/)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
@@ -71,6 +72,7 @@ My curated lists of useful stuff
 * [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
 * [Image Converter](http://tech.akamai.com/image_converter/)
 * [Noise Texture Generator](http://www.noisetexturegenerator.com/)
+* [Hemingway](http://www.hemingwayapp.com/) Text Readability Analyzer
 
 ##RWD
 * [Selling Responsive Design](http://alistapart.com/article/client-relationships-and-the-multi-device-web)
@@ -151,4 +153,6 @@ My curated lists of useful stuff
 
 ##Quotes
 
+##Other Aggregations
+* [Web Design Repo](http://www.webdesignrepo.com/)
 
