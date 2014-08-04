@@ -36,11 +36,10 @@ My curated lists of useful stuff
 
 ##Performance
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
-* [NearlyFreeSpeech gzip workaround](http://ricardomartins.cc/2009/08/11/now-with-70-less-fat.html)
 * [Preventing Custom Font Performance Hit](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
 * [Google Font Performance (Character-Sets and Specific Characters)](https://developers.google.com/fonts/docs/getting_started)
 * [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
-* [Web Page Test](http://www.webpagetest.org/)
+* [Web Page Test](http://www.webpagetest.org/) Great performance analyzer
 * [Tools for Image Optimization](http://addyosmani.com/blog/image-optimization-tools/)
 * [RWD Performance](http://filamentgroup.com/lab/performance-rwd.html)
 * [Image sprites or data URIs? Icon fonts or SVGs? A Grunt workflow for the ‘gold’ standard](http://benfrain.com/image-sprites-data-uris-icon-fonts-v-svgs/)
@@ -104,7 +103,10 @@ My curated lists of useful stuff
 * [Wordpress Plugins I Use - CSS Tricks](http://css-tricks.com/wordpress-plugins-i-use/)
 
 ##Hosting
-
+* [How To Serve Multiple Ghost Blogs on One VPS Using Nginx Server Blocks | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-serve-multiple-ghost-blogs-on-one-vps-using-nginx-server-blocks)
+* [Host non-Ghost webpage with Nginx and Ghost | DigitalOcean](https://www.digitalocean.com/community/questions/host-non-ghost-webpage-with-nginx-and-ghost)
+* [How do I configure comporession with a ghost droplet | DigitalOcean](https://www.digitalocean.com/community/questions/how-do-i-configure-comporession-with-a-ghost-droplet)
+* [NearlyFreeSpeech gzip workaround](http://ricardomartins.cc/2009/08/11/now-with-70-less-fat.html)
 
 ##Freebies
 
