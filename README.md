@@ -36,12 +36,17 @@ My curated lists of useful stuff
 * [Human Javascript](http://read.humanjavascript.com/index.html) Gitbook
 
 ##Performance
+
+###Tools
+* [Web Page Test](http://www.webpagetest.org/) Great performance analyzer
+* [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
+* [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
+* [Tools for Image Optimization](http://addyosmani.com/blog/image-optimization-tools/)
+
+###Articles
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
 * [Preventing Custom Font Performance Hit](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
 * [Google Font Performance (Character-Sets and Specific Characters)](https://developers.google.com/fonts/docs/getting_started)
-* [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
-* [Web Page Test](http://www.webpagetest.org/) Great performance analyzer
-* [Tools for Image Optimization](http://addyosmani.com/blog/image-optimization-tools/)
 * [RWD Performance](http://filamentgroup.com/lab/performance-rwd.html)
 * [Image sprites or data URIs? Icon fonts or SVGs? A Grunt workflow for the ‘gold’ standard](http://benfrain.com/image-sprites-data-uris-icon-fonts-v-svgs/)
 
