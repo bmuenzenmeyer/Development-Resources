@@ -22,6 +22,7 @@ My curated lists of useful stuff
 * [Using Flexbox Now](http://designkarma.co.uk/blog/using-flexbox-now)
 * [Flexbox in the Real World](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/?utm_campaign=e35f9ff71b-Responsive_Design_Weekly_102&utm_medium=email&utm_source=Responsive+Design+Weekly&utm_term=0_df65b6d7c8-e35f9ff71b-59004361)
 * [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
+* [10 CSS One Liners to Replace Native Apps](http://alistapart.com/blog/post/ten-css-one-liners-to-replace-native-apps)
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
@@ -80,6 +81,7 @@ My curated lists of useful stuff
 * [Responsive CSS](http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/)
 * [ESPN Traffic Now Mostly Mobile](http://espnmediazone.com/us/press-releases/2013/10/espn-digital-media-sets-sports-category-record-in-september/)
 * [RWD Bloat](http://daverupert.com/2014/07/rwd-bloat) Debunked.
+* [RWD Bloat 2](http://daverupert.com/2014/07/rwd-bloat-part-ii)
 * [Making ubuntu.com responsive](http://design.canonical.com/2014/03/making-ubuntu-com-responsive/)
 
 ##Process/Workflow/Design
