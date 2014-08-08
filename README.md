@@ -103,7 +103,9 @@ My curated lists of useful stuff
 * [Web Related Registry](http://www.itswebrelated.com/)
 * [User Testing](http://www.usertesting.com/) Pay for usability testing, get paid to perform testing.
 * [How We Work - markboulton](http://markboulton.co.uk/journal/how-we-work)
-* 
+* [How to Sell a Responsive Adaptive Atomic Design Process](http://habaneroconsulting.com/insights/How-to-sell-a-responsive-adaptive-atomic-design-process)
+* [Being Profitable](http://alistapart.com/column/being-profitable)
+
 ##CMSs
 * [Postach.io + Evernote](http://postach.io/) Really simple!
 * [Tumblr](http://tumblr.com) Good for small small things perhaps.
