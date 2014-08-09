@@ -42,6 +42,7 @@ My curated lists of useful stuff
 * [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
 * [Tools for Image Optimization](http://addyosmani.com/blog/image-optimization-tools/)
+* [Smush.i](http://www.smushit.com/ysmush.it/) Image Converter - Progressive JPGs
 
 ###Articles
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
@@ -49,11 +50,13 @@ My curated lists of useful stuff
 * [Google Font Performance (Character-Sets and Specific Characters)](https://developers.google.com/fonts/docs/getting_started)
 * [RWD Performance](http://filamentgroup.com/lab/performance-rwd.html)
 * [Image sprites or data URIs? Icon fonts or SVGs? A Grunt workflow for the ‘gold’ standard](http://benfrain.com/image-sprites-data-uris-icon-fonts-v-svgs/)
+* [Progressive JPGs](http://blog.patrickmeenan.com/2013/06/progressive-jpegs-ftw.html)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
 * [Style Guides are the new Photo Shop](http://www.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-smashing-conference-2012)
 * [Styleguide and Boilerplate Comparison](https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0)
+* [Intuit Kitchen Sink](http://terabytenz.github.io/inuit.css-kitchensink/)
 
 ##Development
 * [External Repository Submodules](http://stackoverflow.com/questions/2140985/how-to-set-up-a-git-project-to-use-an-external-repo-submodule)
@@ -78,6 +81,17 @@ My curated lists of useful stuff
 * [Image Converter](http://tech.akamai.com/image_converter/)
 * [Noise Texture Generator](http://www.noisetexturegenerator.com/)
 * [Hemingway](http://www.hemingwayapp.com/) Text Readability Analyzer
+
+###Zurb Apps
+* [Clue](http://zurb.com/apps/free-apps/clue) Test what people remember on a site or image in 5.5 seconds
+* [Spur](http://zurb.com/apps/free-apps/spur) Critique a site in Grayscale, Intersections, Contrast, Blur, Mirror, Rotate and 50% Zoom
+* [Chop](http://zurb.com/apps/free-apps/chop) Provide a short code snippet with comments
+* [Bounce](http://zurb.com/apps/free-apps/bounce) Add feedback to a site or image
+* [Reel](http://zurb.com/apps/free-apps/reel) Present design slides and get thumbs up/down feedback
+* [Plunk](http://zurb.com/apps/free-apps/plunk) Test mobile hit targets
+* [Strike](http://zurb.com/apps/free-apps/strike) Collaborative Task List
+
+
 
 ##RWD
 * [Selling Responsive Design](http://alistapart.com/article/client-relationships-and-the-multi-device-web)
