@@ -1,4 +1,4 @@
-Development-Resources
+Development Resources
 =====================
 
 My curated lists of useful stuff
@@ -34,6 +34,7 @@ My curated lists of useful stuff
 * [Mobify](http://www.mobify.com/mobifyjs/) image resizing
 * [Responsive Carousel](http://bxslider.com/)
 * [Human Javascript](http://read.humanjavascript.com/index.html) Gitbook
+* [Opinionated AngularJS Styleguide](http://toddmotto.com//github.com/toddmotto/toddmotto.github.io/blob/master/_posts/2014-07-23-opinionated-angular-js-styleguide-for-teams.md)
 
 ##Performance
 
@@ -54,6 +55,7 @@ My curated lists of useful stuff
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
+* [Mozilla Style Guide](http://www.mozilla.org/en-US/styleguide/)
 * [Style Guides are the new Photo Shop](http://www.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-smashing-conference-2012)
 * [Styleguide and Boilerplate Comparison](https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0)
 * [Intuit Kitchen Sink](http://terabytenz.github.io/inuit.css-kitchensink/)
@@ -95,6 +97,7 @@ My curated lists of useful stuff
 
 ##RWD
 * [Selling Responsive Design](http://alistapart.com/article/client-relationships-and-the-multi-device-web)
+* [Responsive Deliverables](http://daverupert.com/2013/04/responsive-deliverables/) Gold
 * [Responsive Design Process](http://heliom.ca/blog/posts/a-responsive-web-design-process)
 * [Starting a RWD Project](http://css-tricks.com/notes-agency-starting-their-first-responsive-web-project/)
 * [Responsive CSS](http://www.igvita.com/2012/06/14/debunking-responsive-css-performance-myths/)
