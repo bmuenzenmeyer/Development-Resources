@@ -93,8 +93,6 @@ My curated lists of useful stuff
 * [Plunk](http://zurb.com/apps/free-apps/plunk) Test mobile hit targets
 * [Strike](http://zurb.com/apps/free-apps/strike) Collaborative Task List
 
-
-
 ##RWD
 * [Selling Responsive Design](http://alistapart.com/article/client-relationships-and-the-multi-device-web)
 * [Responsive Deliverables](http://daverupert.com/2013/04/responsive-deliverables/) Gold
@@ -105,6 +103,7 @@ My curated lists of useful stuff
 * [RWD Bloat](http://daverupert.com/2014/07/rwd-bloat) Debunked.
 * [RWD Bloat 2](http://daverupert.com/2014/07/rwd-bloat-part-ii)
 * [Making ubuntu.com responsive](http://design.canonical.com/2014/03/making-ubuntu-com-responsive/)
+* [Designing in the browser](http://www.usabilityprofessionals.org/uxmagazine/designing-in-the-browser/)
 
 ##Process/Workflow/Design
 * [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
@@ -180,6 +179,7 @@ My curated lists of useful stuff
 * [Why are software development estimates regularly off by a factor of 2-3 times?](http://michaelrwolfe.com/2013/10/19/50/)
 
 ##Quotes
+* “It is not the strongest of the species that survive nor the most intelligent but the one most responsive to change.” - Charles Darwin
 
 ##Other Aggregations
 * [Web Design Repo](http://www.webdesignrepo.com/)
