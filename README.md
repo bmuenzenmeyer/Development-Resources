@@ -50,6 +50,8 @@ My curated lists of useful stuff
 * [Preventing Custom Font Performance Hit](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
 * [Google Font Performance (Character-Sets and Specific Characters)](https://developers.google.com/fonts/docs/getting_started)
 * [RWD Performance](http://filamentgroup.com/lab/performance-rwd.html)
+* [Responsive design can be lightning fast](http://decadecity.net/blog/2014/07/28/responsive-design-can-be-lightning-fast)
+* [HEAD ordering to improve performance](http://blogs.msdn.com/b/ieinternals/archive/2011/07/18/optimal-html-head-ordering-to-avoid-parser-restarts-redownloads-and-improve-performance.aspx)
 * [Image sprites or data URIs? Icon fonts or SVGs? A Grunt workflow for the ‘gold’ standard](http://benfrain.com/image-sprites-data-uris-icon-fonts-v-svgs/)
 * [Progressive JPGs](http://blog.patrickmeenan.com/2013/06/progressive-jpegs-ftw.html)
 
@@ -155,6 +157,8 @@ My curated lists of useful stuff
 * [Parallax Scrolling Framework](http://jalxob.com/cool-kitten/)
 * [HTML Entities](http://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 * [Epic Editor](http://epiceditor.com/) Embeddable JavaScript Markdown Editor
+* [Dash Javascript Video Player](http://dashif.org/reference/players/javascript/1.1.2/index.html)
+* [Data Image jQuery Plugin](http://dev.twoblok.es/data-img)
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
