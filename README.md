@@ -159,6 +159,7 @@ My curated lists of useful stuff
 * [Epic Editor](http://epiceditor.com/) Embeddable JavaScript Markdown Editor
 * [Dash Javascript Video Player](http://dashif.org/reference/players/javascript/1.1.2/index.html)
 * [Data Image jQuery Plugin](http://dev.twoblok.es/data-img)
+* [CSS Spinner](http://codepen.io/crazyrohila/details/Ekmvz)
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
