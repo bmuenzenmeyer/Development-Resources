@@ -106,12 +106,15 @@ My curated lists of useful stuff
 * [RWD Bloat 2](http://daverupert.com/2014/07/rwd-bloat-part-ii)
 * [Making ubuntu.com responsive](http://design.canonical.com/2014/03/making-ubuntu-com-responsive/)
 * [Designing in the browser](http://www.usabilityprofessionals.org/uxmagazine/designing-in-the-browser/)
+* [25 RWD Tools](http://www.creativebloq.com/responsive-design-tools-8134180)
+* [](http://stuffandnonsense.co.uk/blog/about/the-guardians-take-on-mobile-first-responsive-web-design-and-ie8)
 
 ##Process/Workflow/Design
 * [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
 * [Interface Inventory](http://bradfrostweb.com/blog/post/interface-inventory/)
 * [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 * [The ULTIMATE List of 24 Free eBooks on UX and Interface Design](http://www.usefulusability.com/the-ultimate-list-of-24-free-ebooks-on-ux-and-interface-design/) 
+* [Style Tile Browser](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
 
 ##News
 * [Web Design Weekly](http://web-design-weekly.com/)
@@ -123,6 +126,7 @@ My curated lists of useful stuff
 * [How We Work - markboulton](http://markboulton.co.uk/journal/how-we-work)
 * [How to Sell a Responsive Adaptive Atomic Design Process](http://habaneroconsulting.com/insights/How-to-sell-a-responsive-adaptive-atomic-design-process)
 * [Being Profitable](http://alistapart.com/column/being-profitable)
+* [Hosted Project Management Application](http://92fiveapp.com/)
 
 ##CMSs
 * [Postach.io + Evernote](http://postach.io/) Really simple!
@@ -182,6 +186,8 @@ My curated lists of useful stuff
 * [Shame.css](http://csswizardry.com/2013/04/shame-css/) A place to put your quick fix css after launch
 * [What Screens Want](http://frankchimero.com/what-screens-want/)
 * [Why are software development estimates regularly off by a factor of 2-3 times?](http://michaelrwolfe.com/2013/10/19/50/)
+* [One Woman Cannot Have A Baby in Nine Months](http://gigamonkeys.wordpress.com/2007/05/10/baby-in-nine-months/) Mythical Man Month Related
+* [Responsive Design Intranets](http://www.nngroup.com/articles/responsive-design-intranets)
 
 ##Quotes
 * “It is not the strongest of the species that survive nor the most intelligent but the one most responsive to change.” - Charles Darwin
