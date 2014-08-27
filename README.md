@@ -145,6 +145,7 @@ My curated lists of useful stuff
 ####Graphics/Images/Icons
 * [Unsplash](http://unsplash.com/) sweet! thanks ooomf!
 * [Raumrot](http://www.raumrot.com/10/) another great curation
+* [Stock Photo Aggregations](http://thestocks.im/)
 * [Getty Open Content Images](http://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1) 
 * [User Interface User Placeholder](http://uifaces.com/)
 * [1000 Free Icons](http://sixrevisions.com/freebies/icons/free-icons-1000/)
@@ -189,6 +190,7 @@ My curated lists of useful stuff
 * [Why are software development estimates regularly off by a factor of 2-3 times?](http://michaelrwolfe.com/2013/10/19/50/)
 * [One Woman Cannot Have A Baby in Nine Months](http://gigamonkeys.wordpress.com/2007/05/10/baby-in-nine-months/) Mythical Man Month Related
 * [Responsive Design Intranets](http://www.nngroup.com/articles/responsive-design-intranets)
+* [Dark Patterns Illegal](http://www.90percentofeverything.com/2014/08/26/some-dark-patterns-now-illegal-in-uk-interview-with-heather-burns/)
 
 ##Quotes
 * “It is not the strongest of the species that survive nor the most intelligent but the one most responsive to change.” - Charles Darwin
