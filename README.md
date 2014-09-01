@@ -23,6 +23,7 @@ My curated lists of useful stuff
 * [Flexbox in the Real World](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/?utm_campaign=e35f9ff71b-Responsive_Design_Weekly_102&utm_medium=email&utm_source=Responsive+Design+Weekly&utm_term=0_df65b6d7c8-e35f9ff71b-59004361)
 * [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
 * [10 CSS One Liners to Replace Native Apps](http://alistapart.com/blog/post/ten-css-one-liners-to-replace-native-apps)
+* [Penthouse](https://github.com/pocketjoso/penthouse) - Critical path above the fold CSS
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
