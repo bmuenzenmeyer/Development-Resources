@@ -58,6 +58,7 @@ My curated lists of useful stuff
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
+* [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 * [Mozilla Style Guide](http://www.mozilla.org/en-US/styleguide/)
 * [Style Guides are the new Photo Shop](http://www.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-smashing-conference-2012)
 * [Styleguide and Boilerplate Comparison](https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0)
