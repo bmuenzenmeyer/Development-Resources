@@ -24,6 +24,7 @@ My curated lists of useful stuff
 * [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
 * [10 CSS One Liners to Replace Native Apps](http://alistapart.com/blog/post/ten-css-one-liners-to-replace-native-apps)
 * [Penthouse](https://github.com/pocketjoso/penthouse) - Critical path above the fold CSS
+* [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
