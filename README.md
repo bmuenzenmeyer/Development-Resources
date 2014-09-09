@@ -25,6 +25,7 @@ My curated lists of useful stuff
 * [10 CSS One Liners to Replace Native Apps](http://alistapart.com/blog/post/ten-css-one-liners-to-replace-native-apps)
 * [Penthouse](https://github.com/pocketjoso/penthouse) - Critical path above the fold CSS
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
+* [Attribute Model CSS Framework](http://glenmaddern.com/articles/introducing-am-css)
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
@@ -113,12 +114,13 @@ My curated lists of useful stuff
 * [25 RWD Tools](http://www.creativebloq.com/responsive-design-tools-8134180)
 * [](http://stuffandnonsense.co.uk/blog/about/the-guardians-take-on-mobile-first-responsive-web-design-and-ie8)
 
-##Process/Workflow/Design
+##UX / Process / Workflow / Design
 * [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
 * [Interface Inventory](http://bradfrostweb.com/blog/post/interface-inventory/)
 * [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 * [The ULTIMATE List of 24 Free eBooks on UX and Interface Design](http://www.usefulusability.com/the-ultimate-list-of-24-free-ebooks-on-ux-and-interface-design/) 
 * [Style Tile Browser](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
+* [Prototype: How to Previsualize the Experience - UX How](http://uxhow.com/prototype/)
 
 ##News
 * [Web Design Weekly](http://web-design-weekly.com/)
