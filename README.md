@@ -1,7 +1,16 @@
-Development Resources
+UX/UI Resources
 =====================
 
 My curated lists of useful stuff
+
+##UX / Process / Workflow
+* [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/)
+* [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
+* [Prototype: How to Previsualize the Experience - UX How](http://uxhow.com/prototype/)
+* [Interface Inventory](http://bradfrostweb.com/blog/post/interface-inventory/)
+* [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
+* [The ULTIMATE List of 24 Free eBooks on UX and Interface Design](http://www.usefulusability.com/the-ultimate-list-of-24-free-ebooks-on-ux-and-interface-design/) 
+* [Style Tile Browser](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
 
 ##Typography
 * [Butterick's Practical Typography](http://practicaltypography.com/)
@@ -114,14 +123,6 @@ My curated lists of useful stuff
 * [25 RWD Tools](http://www.creativebloq.com/responsive-design-tools-8134180)
 * [](http://stuffandnonsense.co.uk/blog/about/the-guardians-take-on-mobile-first-responsive-web-design-and-ie8)
 
-##UX / Process / Workflow / Design
-* [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
-* [Interface Inventory](http://bradfrostweb.com/blog/post/interface-inventory/)
-* [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
-* [The ULTIMATE List of 24 Free eBooks on UX and Interface Design](http://www.usefulusability.com/the-ultimate-list-of-24-free-ebooks-on-ux-and-interface-design/) 
-* [Style Tile Browser](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
-* [Prototype: How to Previsualize the Experience - UX How](http://uxhow.com/prototype/)
-
 ##News
 * [Web Design Weekly](http://web-design-weekly.com/)
 
@@ -147,7 +148,7 @@ My curated lists of useful stuff
 
 ##Freebies
 
-####Graphics/Images/Icons
+###Graphics/Images/Icons
 * [Unsplash](http://unsplash.com/) sweet! thanks ooomf!
 * [Raumrot](http://www.raumrot.com/10/) another great curation
 * [Stock Photo Aggregations](http://thestocks.im/)
