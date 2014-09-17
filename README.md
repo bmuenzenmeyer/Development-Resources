@@ -56,6 +56,8 @@ My curated lists of useful stuff
 * [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
 * [Tools for Image Optimization](http://addyosmani.com/blog/image-optimization-tools/)
 * [Smush.i](http://www.smushit.com/ysmush.it/) Image Converter - Progressive JPGs
+* [Grunt UNCSS](https://github.com/addyosmani/grunt-uncss) - Remove unneeded CSS
+* [Grunt Imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
 
 ###Articles
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
