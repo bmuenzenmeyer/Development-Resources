@@ -35,6 +35,7 @@ My curated lists of useful stuff
 * [Penthouse](https://github.com/pocketjoso/penthouse) - Critical path above the fold CSS
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 * [Attribute Model CSS Framework](http://glenmaddern.com/articles/introducing-am-css)
+* [Flexbox Fibibacci](http://maxsteenbergen.com/fibonacci/)
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
@@ -199,6 +200,7 @@ My curated lists of useful stuff
 * [One Woman Cannot Have A Baby in Nine Months](http://gigamonkeys.wordpress.com/2007/05/10/baby-in-nine-months/) Mythical Man Month Related
 * [Responsive Design Intranets](http://www.nngroup.com/articles/responsive-design-intranets)
 * [Dark Patterns Illegal](http://www.90percentofeverything.com/2014/08/26/some-dark-patterns-now-illegal-in-uk-interview-with-heather-burns/)
+* [Why hourly time tracking doesn't work for software](http://bocoup.com/weblog/developer-weeks/)
 
 ##Quotes
 * “It is not the strongest of the species that survive nor the most intelligent but the one most responsive to change.” - Charles Darwin
