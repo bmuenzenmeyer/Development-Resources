@@ -201,6 +201,7 @@ My curated lists of useful stuff
 * [Responsive Design Intranets](http://www.nngroup.com/articles/responsive-design-intranets)
 * [Dark Patterns Illegal](http://www.90percentofeverything.com/2014/08/26/some-dark-patterns-now-illegal-in-uk-interview-with-heather-burns/)
 * [Why hourly time tracking doesn't work for software](http://bocoup.com/weblog/developer-weeks/)
+* [Three Mile Island Accident](http://en.wikipedia.org/wiki/Three_Mile_Island_accident) Bad UI Example
 
 ##Quotes
 * “It is not the strongest of the species that survive nor the most intelligent but the one most responsive to change.” - Charles Darwin
