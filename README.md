@@ -11,6 +11,7 @@ My curated lists of useful stuff
 * [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
 * [The ULTIMATE List of 24 Free eBooks on UX and Interface Design](http://www.usefulusability.com/the-ultimate-list-of-24-free-ebooks-on-ux-and-interface-design/) 
 * [Style Tile Browser](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
+* [Excuses to Skip Research](http://muledesign.com/2013/09/excuses-excuses/)
 
 ##Typography
 * [Butterick's Practical Typography](http://practicaltypography.com/)
@@ -208,4 +209,7 @@ My curated lists of useful stuff
 
 ##Other Aggregations
 * [Web Design Repo](http://www.webdesignrepo.com/)
+
+##Wish List
+* [The User Experiene Team of One](http://rosenfeldmedia.com/books/ux-team-of-one/)
 
