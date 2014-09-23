@@ -37,6 +37,7 @@ My curated lists of useful stuff
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
 * [Attribute Model CSS Framework](http://glenmaddern.com/articles/introducing-am-css)
 * [Flexbox Fibibacci](http://maxsteenbergen.com/fibonacci/)
+* [HTML Container Width = Content Width](http://demosthenes.info/blog/894/Shrink-Wrap-HTML-containers-with-content-width)
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
