@@ -177,6 +177,7 @@ My curated lists of useful stuff
 * [Dash Javascript Video Player](http://dashif.org/reference/players/javascript/1.1.2/index.html)
 * [Data Image jQuery Plugin](http://dev.twoblok.es/data-img)
 * [CSS Spinner](http://codepen.io/crazyrohila/details/Ekmvz)
+* [ListJS](http://listjs.com/)
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
