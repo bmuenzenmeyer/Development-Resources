@@ -13,6 +13,10 @@ My curated lists of useful stuff
 * [Style Tile Browser](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
 * [Excuses to Skip Research](http://muledesign.com/2013/09/excuses-excuses/)
 
+###Usability
+* [Measuring Usability with SUS](http://www.measuringusability.com/sus.php)
+* [usability.gov SUS](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+
 ##Typography
 * [Butterick's Practical Typography](http://practicaltypography.com/)
 * [Guide to CSS Font Stacks](http://coding.smashingmagazine.com/2009/09/22/complete-guide-to-css-font-stacks/)
