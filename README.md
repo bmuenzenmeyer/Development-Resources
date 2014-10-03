@@ -28,6 +28,7 @@ My curated lists of useful stuff
 * [Google Font Explorer](http://codepen.io/katydecorah/pen/vetCA)
 
 ##CSS
+* [CSS Guidelines](http://cssguidelin.es/)
 * [Absolute Centering](http://codepen.io/shshaw/full/gEiDt)
 * [Aspect Ratios](http://www.mademyday.de/css-height-equals-width-with-pure-css.html) ALA source I've seen too
 * [Collapsing Header](http://line25.com/tutorials/how-to-create-a-simple-collapsing-header-effect)
