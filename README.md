@@ -16,6 +16,7 @@ My curated lists of useful stuff
 ###Usability
 * [Measuring Usability with SUS](http://www.measuringusability.com/sus.php)
 * [usability.gov SUS](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+* [Collaborative User Testing](http://alistapart.com/article/collaborative-user-testing-less-bias-better-research)
 * [HTML Outliner](https://gsnedders.html5.org/outliner/) Accessibility, semanticism checker
 
 ##Typography
