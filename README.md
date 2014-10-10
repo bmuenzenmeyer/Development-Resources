@@ -18,6 +18,8 @@ My curated lists of useful stuff
 * [usability.gov SUS](http://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
 * [Collaborative User Testing](http://alistapart.com/article/collaborative-user-testing-less-bias-better-research)
 * [HTML Outliner](https://gsnedders.html5.org/outliner/) Accessibility, semanticism checker
+* [ARIA Rules](http://rawgit.com/w3c/aria-in-html/master/index.html)
+* 
 
 ##Typography
 * [Butterick's Practical Typography](http://practicaltypography.com/)
@@ -57,6 +59,7 @@ My curated lists of useful stuff
 * [Responsive Carousel](http://bxslider.com/)
 * [Human Javascript](http://read.humanjavascript.com/index.html) Gitbook
 * [Opinionated AngularJS Styleguide](http://toddmotto.com//github.com/toddmotto/toddmotto.github.io/blob/master/_posts/2014-07-23-opinionated-angular-js-styleguide-for-teams.md)
+* [Grunt vs Gulp](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)
 
 ##Performance
 
