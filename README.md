@@ -221,10 +221,10 @@ My curated lists of useful stuff
 * [The Emerging Global Web](http://www.slideshare.net/yiibu/the-emerging-global-web)
 * [Gov.uk Design Principles](https://www.gov.uk/design-principles)
 
-##Quotes
+##Quotes / Tweets
 * “It is not the strongest of the species that survive nor the most intelligent but the one most responsive to change.” - Charles Darwin
 * [Paul Irish on Web Perf Tuning](https://twitter.com/paul_irish/status/143077300441853952)
-* * [Paul Irish on CSS Perf Tuning](https://twitter.com/paul_irish/status/201030335788613634)
+* [Paul Irish on CSS Perf Tuning](https://twitter.com/paul_irish/status/201030335788613634)
 
 ##Other Aggregations
 * [Web Design Repo](http://www.webdesignrepo.com/)
