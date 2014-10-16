@@ -115,6 +115,7 @@ My curated lists of useful stuff
 * [Noise Texture Generator](http://www.noisetexturegenerator.com/)
 * [Hemingway](http://www.hemingwayapp.com/) Text Readability Analyzer
 * [Whiteboard Fox](http://whiteboardfox.com/)
+* [Regex 101](http://regex101.com/)
 
 ###Zurb Apps
 * [Clue](http://zurb.com/apps/free-apps/clue) Test what people remember on a site or image in 5.5 seconds
