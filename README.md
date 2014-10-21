@@ -65,6 +65,7 @@ My curated lists of useful stuff
 ##Performance
 
 ###Tools
+* [Performance](http://bmuenzenmeyer.github.io/performance/) - An abbreviated performance checklist with helpful resources
 * [Web Page Test](http://www.webpagetest.org/) Great performance analyzer
 * [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [HTML Minifier](http://perfectionkills.com/html-minifier-revisited/) Also interesting for his dev setup (grunt/gulp, unit tests)
@@ -72,6 +73,7 @@ My curated lists of useful stuff
 * [Smush.i](http://www.smushit.com/ysmush.it/) Image Converter - Progressive JPGs
 * [Grunt UNCSS](https://github.com/addyosmani/grunt-uncss) - Remove unneeded CSS
 * [Grunt Imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
+* [Perf Tooling Today Site](http://perf-tooling.today/)
 
 ###Articles
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
