@@ -62,6 +62,7 @@ My curated lists of useful stuff
 * [Human Javascript](http://read.humanjavascript.com/index.html) Gitbook
 * [Opinionated AngularJS Styleguide](http://toddmotto.com//github.com/toddmotto/toddmotto.github.io/blob/master/_posts/2014-07-23-opinionated-angular-js-styleguide-for-teams.md)
 * [Grunt vs Gulp](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)
+* [Defer vs Async Attributes](http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html)
 
 ##Performance
 
