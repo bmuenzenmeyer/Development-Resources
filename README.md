@@ -76,6 +76,7 @@ My curated lists of useful stuff
 * [Grunt UNCSS](https://github.com/addyosmani/grunt-uncss) - Remove unneeded CSS
 * [Grunt Imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
 * [Perf Tooling Today Site](http://perf-tooling.today/)
+* [Clumsy - Network Degradation Tool](http://jagt.github.io/clumsy/)
 
 ###Articles
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
