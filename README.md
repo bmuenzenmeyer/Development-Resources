@@ -176,6 +176,7 @@ My curated lists of useful stuff
 * [Unsplash](http://unsplash.com/) sweet! thanks ooomf!
 * [Raumrot](http://www.raumrot.com/10/) another great curation
 * [Stock Photo Aggregations](http://thestocks.im/)
+* [Stock Photo Search](http://www.sitebuilderreport.com/stock-up)
 * [Getty Open Content Images](http://search.getty.edu/gateway/search?q=&cat=highlight&f=%22Open+Content+Images%22&rows=10&srt=a&dir=s&pg=1) 
 * [User Interface User Placeholder](http://uifaces.com/)
 * [1000 Free Icons](http://sixrevisions.com/freebies/icons/free-icons-1000/)
@@ -234,6 +235,7 @@ My curated lists of useful stuff
 
 ##Other Aggregations
 * [Web Design Repo](http://www.webdesignrepo.com/)
+* [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ##Wish List
 * [The User Experiene Team of One](http://rosenfeldmedia.com/books/ux-team-of-one/)
