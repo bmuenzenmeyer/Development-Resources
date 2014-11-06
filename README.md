@@ -21,7 +21,8 @@ My curated lists of useful stuff
 * [Collaborative User Testing](http://alistapart.com/article/collaborative-user-testing-less-bias-better-research)
 * [HTML Outliner](https://gsnedders.html5.org/outliner/) Accessibility, semanticism checker
 * [ARIA Rules](http://rawgit.com/w3c/aria-in-html/master/index.html)
-* 
+* [Personas on Usability.gov](http://www.usability.gov/how-to-and-tools/methods/personas.html)
+* [DIY User Personas](http://www.ux-lady.com/diy-user-personas/)
 
 ##Typography
 * [Butterick's Practical Typography](http://practicaltypography.com/)
