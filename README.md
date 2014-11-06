@@ -241,5 +241,7 @@ My curated lists of useful stuff
 * [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ##Wish List
-* [The User Experiene Team of One](http://rosenfeldmedia.com/books/ux-team-of-one/)
+* [The User Experience Team of One](http://rosenfeldmedia.com/books/ux-team-of-one/)
+* [You Are My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)
+* [Responsive and Responsible]()
 
