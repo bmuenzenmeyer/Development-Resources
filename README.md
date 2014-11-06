@@ -83,7 +83,7 @@ My curated lists of useful stuff
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
 * [Preventing Custom Font Performance Hit](http://css-tricks.com/preventing-the-performance-hit-from-custom-fonts/)
 * [Google Font Performance (Character-Sets and Specific Characters)](https://developers.google.com/fonts/docs/getting_started)
-* [RWD Performance](http://filamentgroup.com/lab/performance-rwd.html)
+* [RWD Performance - How we make RWD Load Fast as Heck](http://filamentgroup.com/lab/performance-rwd.html)
 * [Responsive design can be lightning fast](http://decadecity.net/blog/2014/07/28/responsive-design-can-be-lightning-fast)
 * [HEAD ordering to improve performance](http://blogs.msdn.com/b/ieinternals/archive/2011/07/18/optimal-html-head-ordering-to-avoid-parser-restarts-redownloads-and-improve-performance.aspx)
 * [Image sprites or data URIs? Icon fonts or SVGs? A Grunt workflow for the ‘gold’ standard](http://benfrain.com/image-sprites-data-uris-icon-fonts-v-svgs/)
