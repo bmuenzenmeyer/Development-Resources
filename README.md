@@ -199,6 +199,7 @@ My curated lists of useful stuff
 * [Data Image jQuery Plugin](http://dev.twoblok.es/data-img)
 * [CSS Spinner](http://codepen.io/crazyrohila/details/Ekmvz)
 * [ListJS](http://listjs.com/)
+* [reveal.js](http://lab.hakim.se/reveal-js/#/) HTML Presentations
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
