@@ -146,6 +146,7 @@ My curated lists of useful stuff
 * [25 RWD Tools](http://www.creativebloq.com/responsive-design-tools-8134180)
 * [The Guardian's Take on Mobile First Responsive Design and IE8](http://stuffandnonsense.co.uk/blog/about/the-guardians-take-on-mobile-first-responsive-web-design-and-ie8)
 * [To picturefill](http://filamentgroup.com/lab/to-picturefill.html) Picturefill vs sizes vs srcset
+* [Tweet: RWD Impact to Guardian on Pageload](https://twitter.com/gdndevelopers/status/527881006834282496)
 
 ##News
 * [Web Design Weekly](http://web-design-weekly.com/)
