@@ -88,6 +88,7 @@ My curated lists of useful stuff
 * [HEAD ordering to improve performance](http://blogs.msdn.com/b/ieinternals/archive/2011/07/18/optimal-html-head-ordering-to-avoid-parser-restarts-redownloads-and-improve-performance.aspx)
 * [Image sprites or data URIs? Icon fonts or SVGs? A Grunt workflow for the ‘gold’ standard](http://benfrain.com/image-sprites-data-uris-icon-fonts-v-svgs/)
 * [Progressive JPGs](http://blog.patrickmeenan.com/2013/06/progressive-jpegs-ftw.html)
+* [Fast Enough](http://timkadlec.com/2014/01/fast-enough/)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
@@ -230,6 +231,7 @@ My curated lists of useful stuff
 * [Three Mile Island Accident](http://en.wikipedia.org/wiki/Three_Mile_Island_accident) Bad UI Example
 * [The Emerging Global Web](http://www.slideshare.net/yiibu/the-emerging-global-web)
 * [Gov.uk Design Principles](https://www.gov.uk/design-principles)
+* [MLS Team Redesign Concept](http://diegoguevara.com/blog/2014/10/07/latest-project-miami-mls-team-2/)
 
 ##Quotes / Tweets
 * “It is not the strongest of the species that survive nor the most intelligent but the one most responsive to change.” - Charles Darwin
