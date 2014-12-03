@@ -50,6 +50,7 @@ My curated lists of useful stuff
 * [Attribute Model CSS Framework](http://glenmaddern.com/articles/introducing-am-css)
 * [Flexbox Fibibacci](http://maxsteenbergen.com/fibonacci/)
 * [HTML Container Width = Content Width](http://demosthenes.info/blog/894/Shrink-Wrap-HTML-containers-with-content-width)
+* [CSS Regression Testing](http://css-tricks.com/automating-css-regression-testing/)
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
