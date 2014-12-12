@@ -191,6 +191,8 @@ My curated lists of useful stuff
 * [Icomoon Icon Font Generator](http://icomoon.io/app/) Icon font generator
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/) Good Icon font
 * [Iconmelon](http://iconmelon.com) SVG Icons
+* [SVG Loaders](http://samherbert.net/svg-loaders/)
+* [Clip Art Alternatives](http://www.vandelaydesign.com/microsoft-clipart-alternatives/)
 * [Free Photos](http://www.freephotosbank.com/)
 * [More Free Photos](http://pixelperfectdigital.com/)
 
