@@ -91,6 +91,7 @@ My curated lists of useful stuff
 * [Image sprites or data URIs? Icon fonts or SVGs? A Grunt workflow for the ‘gold’ standard](http://benfrain.com/image-sprites-data-uris-icon-fonts-v-svgs/)
 * [Progressive JPGs](http://blog.patrickmeenan.com/2013/06/progressive-jpegs-ftw.html)
 * [Fast Enough](http://timkadlec.com/2014/01/fast-enough/)
+* [Performance Costs of MVC Frameworks](http://www.filamentgroup.com/lab/mv-initial-load-times.html)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
@@ -104,6 +105,7 @@ My curated lists of useful stuff
 * [External Repository Submodules](http://stackoverflow.com/questions/2140985/how-to-set-up-a-git-project-to-use-an-external-repo-submodule)
 * [Code Guide](http://mdo.github.io/code-guide/) Front End Best Practices
 * [Responsive Images \ Picture Element Use Cases](http://dev.opera.com/articles/responsive-images/)
+* [Grunt + Jekyll](http://css-tricks.com/video-screencasts/screencast-134-tour-site-progress-built-jekyll-grunt-sass-svg-system/)
 
 ##Tutorials
 * [HSLA Colors](http://demosthenes.info/blog/61/An-Easy-Guide-To-HSL-Color-In-CSS3)
