@@ -176,6 +176,7 @@ My curated lists of useful stuff
 * [How To Serve Multiple Ghost Blogs on One VPS Using Nginx Server Blocks | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-serve-multiple-ghost-blogs-on-one-vps-using-nginx-server-blocks)
 * [Host non-Ghost webpage with Nginx and Ghost | DigitalOcean](https://www.digitalocean.com/community/questions/host-non-ghost-webpage-with-nginx-and-ghost)
 * [How do I configure compression with a ghost droplet | DigitalOcean](https://www.digitalocean.com/community/questions/how-do-i-configure-comporession-with-a-ghost-droplet)
+* [Improving Performance on a Ghost Blog and Digital Ocean](http://xaviertalpe.be/2014/08/17/improving-the-performance-of-your-ghost-blog-on-digitalocean/)
 * [nginx Caching | Ghost and Digital Ocean](http://stackoverflow.com/questions/25063361/nginx-setting-expires-header-with-proxy)
 * [NearlyFreeSpeech gzip workaround](http://ricardomartins.cc/2009/08/11/now-with-70-less-fat.html)
 
