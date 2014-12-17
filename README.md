@@ -107,6 +107,7 @@ My curated lists of useful stuff
 * [Code Guide](http://mdo.github.io/code-guide/) Front End Best Practices
 * [Responsive Images \ Picture Element Use Cases](http://dev.opera.com/articles/responsive-images/)
 * [Grunt + Jekyll](http://css-tricks.com/video-screencasts/screencast-134-tour-site-progress-built-jekyll-grunt-sass-svg-system/)
+* [Build a blog with Jekyll and Github Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/)
 
 ##Tutorials
 * [HSLA Colors](http://demosthenes.info/blog/61/An-Easy-Guide-To-HSL-Color-In-CSS3)
