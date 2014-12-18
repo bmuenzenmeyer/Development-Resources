@@ -25,6 +25,7 @@ My curated lists of useful stuff
 * [Personas on Usability.gov](http://www.usability.gov/how-to-and-tools/methods/personas.html)
 * [DIY User Personas](http://www.ux-lady.com/diy-user-personas/)
 * [Silverback - Guerilla usability testing ](http://silverbackapp.com/) Mac only
+* [5 Second Tests](http://www.measuringu.com/five-second-tests.php)
 
 ##Typography
 * [Butterick's Practical Typography](http://practicaltypography.com/)
