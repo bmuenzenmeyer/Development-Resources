@@ -12,6 +12,7 @@ My curated lists of useful stuff
 * [Atomic Design Presentation](http://uxim15.uie.com/videos/brad-frost)
 * [The ULTIMATE List of 24 Free eBooks on UX and Interface Design](http://www.usefulusability.com/the-ultimate-list-of-24-free-ebooks-on-ux-and-interface-design/) 
 * [Style Tile Browser](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
+* [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices/)
 * [Excuses to Skip Research](http://muledesign.com/2013/09/excuses-excuses/)
 * [Product Roadmapping](http://www.mindtheproduct.com/2014/07/experiments-roadmapping-gov-uk/)
 * [Product Roadmapping, Prioritisation and Portfolio Management](http://www.mindtheproduct.com/2014/07/product-roadmapping-prioritisation-portfolio/)
