@@ -55,6 +55,7 @@ My curated lists of useful stuff
 * [Flexbox Fibibacci](http://maxsteenbergen.com/fibonacci/)
 * [HTML Container Width = Content Width](http://demosthenes.info/blog/894/Shrink-Wrap-HTML-containers-with-content-width)
 * [CSS Regression Testing](http://css-tricks.com/automating-css-regression-testing/)
+* [The Media Object Saves Hundreds of Lines of Code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
