@@ -13,6 +13,7 @@ My curated lists of useful stuff
 * [The ULTIMATE List of 24 Free eBooks on UX and Interface Design](http://www.usefulusability.com/the-ultimate-list-of-24-free-ebooks-on-ux-and-interface-design/) 
 * [Style Tile Browser](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
 * [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices/)
+* [Building a Pattern Library](https://about.futurelearn.com/blog/pattern-library/)
 * [Excuses to Skip Research](http://muledesign.com/2013/09/excuses-excuses/)
 * [Product Roadmapping](http://www.mindtheproduct.com/2014/07/experiments-roadmapping-gov-uk/)
 * [Product Roadmapping, Prioritisation and Portfolio Management](http://www.mindtheproduct.com/2014/07/product-roadmapping-prioritisation-portfolio/)
@@ -84,6 +85,7 @@ My curated lists of useful stuff
 * [Grunt Imagemin](https://github.com/gruntjs/grunt-contrib-imagemin)
 * [Perf Tooling Today Site](http://perf-tooling.today/)
 * [Clumsy - Network Degradation Tool](http://jagt.github.io/clumsy/)
+* [Lazy Load Images Script](https://github.com/easy-designs/easy-lazy-images.js)
 
 ###Articles
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
@@ -157,6 +159,7 @@ My curated lists of useful stuff
 * [The Guardian's Take on Mobile First Responsive Design and IE8](http://stuffandnonsense.co.uk/blog/about/the-guardians-take-on-mobile-first-responsive-web-design-and-ie8)
 * [To picturefill](http://filamentgroup.com/lab/to-picturefill.html) Picturefill vs sizes vs srcset
 * [Tweet: RWD Impact to Guardian on Pageload](https://twitter.com/gdndevelopers/status/527881006834282496)
+* [Responsive Nav Plugin](http://responsive-nav.com/)
 
 ##News
 * [Web Design Weekly](http://web-design-weekly.com/)
@@ -244,11 +247,13 @@ My curated lists of useful stuff
 * [The Emerging Global Web](http://www.slideshare.net/yiibu/the-emerging-global-web)
 * [Gov.uk Design Principles](https://www.gov.uk/design-principles)
 * [MLS Team Redesign Concept](http://diegoguevara.com/blog/2014/10/07/latest-project-miami-mls-team-2/)
+* [Drawer Navigation - Testing](http://thenextweb.com/dd/2014/04/08/ux-designers-side-drawer-navigation-costing-half-user-engagement/)
 
 ##Quotes / Tweets
 * “It is not the strongest of the species that survive nor the most intelligent but the one most responsive to change.” - Charles Darwin
 * [Paul Irish on Web Perf Tuning](https://twitter.com/paul_irish/status/143077300441853952)
 * [Paul Irish on CSS Perf Tuning](https://twitter.com/paul_irish/status/201030335788613634)
+* [Two CSS Properties Walk into a Bar](https://twitter.com/thomasfuchs/status/493790680397803521)
 
 ##Other Aggregations
 * [Web Design Repo](http://www.webdesignrepo.com/)
