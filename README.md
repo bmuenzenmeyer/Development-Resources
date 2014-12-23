@@ -3,6 +3,9 @@ UX/UI Resources
 
 My curated lists of useful stuff
 
+#TODO
+*[Web Components](http://www.youtube.com/watch?v=QHxrr6Q82yI)
+
 ##UX / Process / Workflow
 * [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/)
 * [Flexible Design Prototyping](http://www.netmagazine.com/features/10-tips-quick-and-flexible-design-prototyping)
