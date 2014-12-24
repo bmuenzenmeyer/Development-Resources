@@ -5,6 +5,7 @@ My curated lists of useful stuff
 
 #TODO
 * [Web Components](http://www.youtube.com/watch?v=QHxrr6Q82yI)
+* [Help! My portfolio sucks!](http://alistapart.com/column/help-my-portfolio-sucks)
 
 ##UX / Process / Workflow
 * [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/)
