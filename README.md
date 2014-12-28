@@ -252,6 +252,7 @@ My curated lists of useful stuff
 * [The Emerging Global Web](http://www.slideshare.net/yiibu/the-emerging-global-web)
 * [Gov.uk Design Principles](https://www.gov.uk/design-principles)
 * [MLS Team Redesign Concept](http://diegoguevara.com/blog/2014/10/07/latest-project-miami-mls-team-2/)
+* [Microsoft Rebrand](http://www.minimallyminimal.com/blog/2012/7/3/the-next-microsoft.html)
 * [Drawer Navigation - Testing](http://thenextweb.com/dd/2014/04/08/ux-designers-side-drawer-navigation-costing-half-user-engagement/)
 
 ##Quotes / Tweets
