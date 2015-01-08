@@ -269,6 +269,6 @@ My curated lists of useful stuff
 
 ##Wish List
 * [The User Experience Team of One](http://rosenfeldmedia.com/books/ux-team-of-one/)
-* [You Are My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)
-* [Responsive and Responsible]()
+* ~~[You Are My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)~~
+* ~~[Responsive and Responsible]()~~
 
