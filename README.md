@@ -271,4 +271,8 @@ My curated lists of useful stuff
 * [The User Experience Team of One](http://rosenfeldmedia.com/books/ux-team-of-one/)
 * ~~[You Are My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)~~
 * ~~[Responsive and Responsible]()~~
+* 
+##Inpiring Examples of The Web at Its Best
+* [http://www.bemyeyes.org/](http://www.bemyeyes.org/)
+* [I am a Bear](http://www.dailydot.com/lol/interview-with-a-bear-twitter/)
 
