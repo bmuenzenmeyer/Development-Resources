@@ -224,6 +224,7 @@ My curated lists of useful stuff
 * [ListJS](http://listjs.com/)
 * [reveal.js](http://lab.hakim.se/reveal-js/#/) HTML Presentations
 * [Gradient Animator](http://www.gradient-animator.com/)
+* [SVG Generation from Patterns](http://www.svgeneration.com/)
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
