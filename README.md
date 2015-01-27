@@ -225,6 +225,8 @@ My curated lists of useful stuff
 * [reveal.js](http://lab.hakim.se/reveal-js/#/) HTML Presentations
 * [Gradient Animator](http://www.gradient-animator.com/)
 * [SVG Generation from Patterns](http://www.svgeneration.com/)
+* [Animate CSS](http://daneden.github.io/animate.css/)
+* [Hover CSS](http://ianlunn.github.io/Hover/)
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
