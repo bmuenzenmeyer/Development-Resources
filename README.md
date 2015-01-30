@@ -7,6 +7,8 @@ My curated lists of useful stuff
 * [Web Components](http://www.youtube.com/watch?v=QHxrr6Q82yI)
 * [Help! My portfolio sucks!](http://alistapart.com/column/help-my-portfolio-sucks)
 * [Building Large Scale Knockout Applications](http://www.scottlogic.com/blog/2014/02/28/developing-large-scale-knockoutjs-applications.html)
+* [SASS Style Guide](http://css-tricks.com/sass-style-guide/)
+* [A Vision for Our SASS](http://alistapart.com/article/a-vision-for-our-sass)
 
 ##UX / Process / Workflow
 * [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/)
