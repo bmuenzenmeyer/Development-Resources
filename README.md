@@ -9,6 +9,9 @@ My curated lists of useful stuff
 * [Building Large Scale Knockout Applications](http://www.scottlogic.com/blog/2014/02/28/developing-large-scale-knockoutjs-applications.html)
 * [SASS Style Guide](http://css-tricks.com/sass-style-guide/)
 * [A Vision for Our SASS](http://alistapart.com/article/a-vision-for-our-sass)
+* [PhoneGap with HTML/CSS/JS](http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/)
+* [Designing in the Browser](http://www.uie.com/articles/designing_in_browser/)
+* [Webdesigner's Checklist](http://webdesignerschecklist.com/)
 
 ##UX / Process / Workflow
 * [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/)
@@ -168,6 +171,7 @@ My curated lists of useful stuff
 * [To picturefill](http://filamentgroup.com/lab/to-picturefill.html) Picturefill vs sizes vs srcset
 * [Tweet: RWD Impact to Guardian on Pageload](https://twitter.com/gdndevelopers/status/527881006834282496)
 * [Responsive Nav Plugin](http://responsive-nav.com/)
+* [The Guardian Goes Responsive](http://next.theguardian.com/blog/responsive-takeover/)
 
 ##News
 * [Web Design Weekly](http://web-design-weekly.com/)
@@ -276,7 +280,7 @@ My curated lists of useful stuff
 * [The User Experience Team of One](http://rosenfeldmedia.com/books/ux-team-of-one/)
 * ~~[You Are My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)~~
 * ~~[Responsive and Responsible]()~~
-* 
+
 ##Inpiring Examples of The Web at Its Best
 * [http://www.bemyeyes.org/](http://www.bemyeyes.org/)
 * [I am a Bear](http://www.dailydot.com/lol/interview-with-a-bear-twitter/)
