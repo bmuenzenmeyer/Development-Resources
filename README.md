@@ -7,8 +7,6 @@ My curated lists of useful stuff
 * [Web Components](http://www.youtube.com/watch?v=QHxrr6Q82yI)
 * [Help! My portfolio sucks!](http://alistapart.com/column/help-my-portfolio-sucks)
 * [Building Large Scale Knockout Applications](http://www.scottlogic.com/blog/2014/02/28/developing-large-scale-knockoutjs-applications.html)
-* [SASS Style Guide](http://css-tricks.com/sass-style-guide/)
-* [A Vision for Our SASS](http://alistapart.com/article/a-vision-for-our-sass)
 * [PhoneGap with HTML/CSS/JS](http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/)
 * [Designing in the Browser](http://www.uie.com/articles/designing_in_browser/)
 * [Webdesigner's Checklist](http://webdesignerschecklist.com/)
@@ -68,6 +66,8 @@ My curated lists of useful stuff
 * [HTML Container Width = Content Width](http://demosthenes.info/blog/894/Shrink-Wrap-HTML-containers-with-content-width)
 * [CSS Regression Testing](http://css-tricks.com/automating-css-regression-testing/)
 * [The Media Object Saves Hundreds of Lines of Code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
+* [SASS Style Guide](http://css-tricks.com/sass-style-guide/)
+* [A Vision for Our SASS](http://alistapart.com/article/a-vision-for-our-sass)
 
 #SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
