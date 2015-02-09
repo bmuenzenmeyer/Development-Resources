@@ -5,10 +5,8 @@ My curated lists of useful stuff
 
 #TODO
 * [Web Components](http://www.youtube.com/watch?v=QHxrr6Q82yI)
-
 * [Building Large Scale Knockout Applications](http://www.scottlogic.com/blog/2014/02/28/developing-large-scale-knockoutjs-applications.html)
 * [PhoneGap with HTML/CSS/JS](http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/)
-* [Designing in the Browser](http://www.uie.com/articles/designing_in_browser/)
 * [Webdesigner's Checklist](http://webdesignerschecklist.com/)
 
 ##UX / Process / Workflow
@@ -26,6 +24,7 @@ My curated lists of useful stuff
 * [Product Roadmapping](http://www.mindtheproduct.com/2014/07/experiments-roadmapping-gov-uk/)
 * [Product Roadmapping, Prioritisation and Portfolio Management](http://www.mindtheproduct.com/2014/07/product-roadmapping-prioritisation-portfolio/)
 * [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes)
+* [Designing in the Browser](http://www.uie.com/articles/designing_in_browser/)
 
 ###Usability
 * [Measuring Usability with SUS](http://www.measuringusability.com/sus.php)
