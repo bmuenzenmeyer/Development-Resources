@@ -5,7 +5,7 @@ My curated lists of useful stuff
 
 #TODO
 * [Web Components](http://www.youtube.com/watch?v=QHxrr6Q82yI)
-* [Help! My portfolio sucks!](http://alistapart.com/column/help-my-portfolio-sucks)
+
 * [Building Large Scale Knockout Applications](http://www.scottlogic.com/blog/2014/02/28/developing-large-scale-knockoutjs-applications.html)
 * [PhoneGap with HTML/CSS/JS](http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/)
 * [Designing in the Browser](http://www.uie.com/articles/designing_in_browser/)
@@ -184,6 +184,7 @@ My curated lists of useful stuff
 * [How to Sell a Responsive Adaptive Atomic Design Process](http://habaneroconsulting.com/insights/How-to-sell-a-responsive-adaptive-atomic-design-process)
 * [Being Profitable](http://alistapart.com/column/being-profitable)
 * [Hosted Project Management Application](http://92fiveapp.com/)
+* [Help! My portfolio sucks!](http://alistapart.com/column/help-my-portfolio-sucks)
 
 ##CMSs
 * [Postach.io + Evernote](http://postach.io/) Really simple!
