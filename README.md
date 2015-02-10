@@ -25,6 +25,7 @@ My curated lists of useful stuff
 * [Product Roadmapping, Prioritisation and Portfolio Management](http://www.mindtheproduct.com/2014/07/product-roadmapping-prioritisation-portfolio/)
 * [HTML Wireframes](http://bradfrostweb.com/blog/post/html-wireframes)
 * [Designing in the Browser](http://www.uie.com/articles/designing_in_browser/)
+* [Resources for Mapping the Experience with Alignment Diagrams](https://experiencinginformation.wordpress.com/2014/10/25/resources-for-mapping-the-experience-with-alignment-diagrams/)
 
 ###Usability
 * [Measuring Usability with SUS](http://www.measuringusability.com/sus.php)
