@@ -110,6 +110,7 @@ My curated lists of useful stuff
 * [Fast Enough](http://timkadlec.com/2014/01/fast-enough/)
 * [Performance Costs of MVC Frameworks](http://www.filamentgroup.com/lab/mv-initial-load-times.html)
 * [Resource Network Timing](https://developer.chrome.com/devtools/docs/network#resource-network-timing)
+* [Caching and CDN Primer](http://www.foxycart.com/blog/caching-and-cdn)
 
 ##Style Guides
 * [BBC GEL](http://www.bbc.co.uk/gel)
