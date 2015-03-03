@@ -137,8 +137,6 @@ My curated lists of useful stuff
 ##Apps / Sites
 * [Lipsums, especially Arrested Development!](http://meettheipsums.com/)
 * [PDF to HTML](http://coolwanglu.github.io/pdf2htmlEX/)
-* [Paletton Color Picker](http://www.paletton.com/)
-* [Color Monster](http://colormonster.io/)
 * [Finch](https://meetfinch.com) - View Local websites on any internet connected device
 * [SnazzyMaps](http://snazzymaps.com/)
 * [SnappySnippet](https://github.com/kdzwinel/SnappySnippet) - Chrome extension that allows easy extraction of CSS and HTML from selected element.
@@ -221,6 +219,13 @@ My curated lists of useful stuff
 * [Clip Art Alternatives](http://www.vandelaydesign.com/microsoft-clipart-alternatives/)
 * [Free Photos](http://www.freephotosbank.com/)
 * [More Free Photos](http://pixelperfectdigital.com/)
+
+###Color Tools
+* [http://color.hailpixel.com/](Full screen color picker)
+* [Paletton Color Picker](http://www.paletton.com/)
+* [Color Monster](http://colormonster.io/)
+* [Contrast Analysis](http://jxnblk.com/colorable/)
+* [Gradient Explorer](http://jxnblk.com/shade/?base=00ccff&hueShift=-130&lighten=0&saturate=0)
 
 ###Standalone Components
 * [Standalone Like Button](http://www.likebtn.com/en/)
