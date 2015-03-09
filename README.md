@@ -262,6 +262,7 @@ My curated lists of useful stuff
 * [Colours](http://webcolourdata.com/)
 * [Shame.css](http://csswizardry.com/2013/04/shame-css/) A place to put your quick fix css after launch
 * [What Screens Want](http://frankchimero.com/what-screens-want/)
+* [The Web's Grain](http://frankchimero.com/talks/the-webs-grain/transcript/)
 * [Why are software development estimates regularly off by a factor of 2-3 times?](http://michaelrwolfe.com/2013/10/19/50/)
 * [One Woman Cannot Have A Baby in Nine Months](http://gigamonkeys.wordpress.com/2007/05/10/baby-in-nine-months/) Mythical Man Month Related
 * [Responsive Design Intranets](http://www.nngroup.com/articles/responsive-design-intranets)
