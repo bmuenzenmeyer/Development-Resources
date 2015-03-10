@@ -5,7 +5,6 @@ My curated lists of useful stuff
 
 #TODO
 * [Web Components](http://www.youtube.com/watch?v=QHxrr6Q82yI)
-* [Building Large Scale Knockout Applications](http://www.scottlogic.com/blog/2014/02/28/developing-large-scale-knockoutjs-applications.html)
 * [PhoneGap with HTML/CSS/JS](http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/)
 * [Webdesigner's Checklist](http://webdesignerschecklist.com/)
 
@@ -287,6 +286,7 @@ My curated lists of useful stuff
 
 ##Wish List
 * [The User Experience Team of One](http://rosenfeldmedia.com/books/ux-team-of-one/)
+* [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md#you-dont-know-js-book-series)
 * ~~[You Are My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)~~
 * ~~[Responsive and Responsible]()~~
 
