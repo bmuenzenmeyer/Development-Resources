@@ -286,7 +286,7 @@ My curated lists of useful stuff
 * [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 ##Wish List
-* [The User Experience Team of One](http://rosenfeldmedia.com/books/ux-team-of-one/)
+* [The User Experience Team of One](http://www.amazon.com/The-User-Experience-Team-One/dp/1933820187)
 * [Async and Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md#you-dont-know-js-book-series)
 * ~~[You Are My Favorite Client](http://www.abookapart.com/products/youre-my-favorite-client)~~
 * ~~[Responsive and Responsible]()~~
