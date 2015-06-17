@@ -76,7 +76,6 @@ My curated lists of useful stuff
 * [Zepto](http://zeptojs.com/)
 * [Typeahead](http://twitter.github.io/typeahead.js/)
 * [Mobify](http://www.mobify.com/mobifyjs/) image resizing
-* [Image Lazy Loading](http://callmecavs.github.io/layzr.js/)
 * [Responsive Carousel](http://bxslider.com/)
 * [Human Javascript](http://read.humanjavascript.com/index.html) Gitbook
 * [Opinionated AngularJS Styleguide](http://toddmotto.com//github.com/toddmotto/toddmotto.github.io/blob/master/_posts/2014-07-23-opinionated-angular-js-styleguide-for-teams.md)
@@ -97,6 +96,8 @@ My curated lists of useful stuff
 * [Perf Tooling Today Site](http://perf-tooling.today/)
 * [Clumsy - Network Degradation Tool](http://jagt.github.io/clumsy/)
 * [Lazy Load Images Script](https://github.com/easy-designs/easy-lazy-images.js)
+* [Image Lazy Loading](http://callmecavs.github.io/layzr.js/)
+* [Lazy Sizes](https://github.com/aFarkas/lazysizes) - a really good lib
 
 ###Articles
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
