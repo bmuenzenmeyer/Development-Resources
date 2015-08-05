@@ -281,6 +281,7 @@ My curated lists of useful stuff
 * [Paul Irish on Web Perf Tuning](https://twitter.com/paul_irish/status/143077300441853952)
 * [Paul Irish on CSS Perf Tuning](https://twitter.com/paul_irish/status/201030335788613634)
 * [Two CSS Properties Walk into a Bar](https://twitter.com/thomasfuchs/status/493790680397803521)
+* “It is not enough to conquer; one must learn to seduce.” - Voltaire
 
 ##Other Aggregations
 * [Web Design Repo](http://www.webdesignrepo.com/)
