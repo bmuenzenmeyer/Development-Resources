@@ -36,6 +36,7 @@ My curated lists of useful stuff
 * [DIY User Personas](http://www.ux-lady.com/diy-user-personas/)
 * [Silverback - Guerilla usability testing ](http://silverbackapp.com/) Mac only
 * [5 Second Tests](http://www.measuringu.com/five-second-tests.php)
+* [UI QA Checklist](https://github.com/MozillaFoundation/Design/issues/15)
 
 ##Typography
 * [Butterick's Practical Typography](http://practicaltypography.com/)
