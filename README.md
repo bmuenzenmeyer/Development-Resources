@@ -47,6 +47,8 @@ My curated lists of useful stuff
 * [Republic Gothic](http://www.p22.com/family-Republic_Gothic)
 * [Unit Gothic](http://www.p22.com/family-Unit_Gothic)
 * [Google Font Explorer](http://codepen.io/katydecorah/pen/vetCA)
+* [Questa Free Font](http://www.fontspring.com/fonts/the-questa-project/questa-complete)
+* [Overpass Font](http://overpassfont.org/)
 
 ##CSS
 * [CSS Guidelines](http://cssguidelin.es/)
@@ -147,6 +149,7 @@ My curated lists of useful stuff
 * [Hemingway](http://www.hemingwayapp.com/) Text Readability Analyzer
 * [Whiteboard Fox](http://whiteboardfox.com/)
 * [Regex 101](http://regex101.com/)
+* [SVG Path Builder](http://anthonydugois.com/svg-path-builder/)
 
 ###Zurb Apps
 * [Clue](http://zurb.com/apps/free-apps/clue) Test what people remember on a site or image in 5.5 seconds
