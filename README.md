@@ -68,11 +68,12 @@ My curated lists of useful stuff
 * [HTML Container Width = Content Width](http://demosthenes.info/blog/894/Shrink-Wrap-HTML-containers-with-content-width)
 * [CSS Regression Testing](http://css-tricks.com/automating-css-regression-testing/)
 * [The Media Object Saves Hundreds of Lines of Code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
-* [SASS Style Guide](http://css-tricks.com/sass-style-guide/)
-* [A Vision for Our SASS](http://alistapart.com/article/a-vision-for-our-sass)
+* [](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
 
-#SCSS
+#SASS/SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
+* [A Vision for Our SASS](http://alistapart.com/article/a-vision-for-our-sass)
+* [SASS Style Guide](http://css-tricks.com/sass-style-guide/)
 
 ##Javascript / jQuery
 * [JSONP](http://rambleabouttech.blogspot.com/2012/08/jquery-json-vs-jsonp-using-nodejs.html)
@@ -190,6 +191,7 @@ My curated lists of useful stuff
 * [Being Profitable](http://alistapart.com/column/being-profitable)
 * [Hosted Project Management Application](http://92fiveapp.com/)
 * [Help! My portfolio sucks!](http://alistapart.com/column/help-my-portfolio-sucks)
+* [Creating a Stormproof Invoicing Process](http://www.freeagent.com/fieldguide/articles/creating-a-stormproof-invoicing-process/)
 
 ##CMSs
 * [Postach.io + Evernote](http://postach.io/) Really simple!
