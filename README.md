@@ -102,6 +102,7 @@ My curated lists of useful stuff
 * [Lazy Load Images Script](https://github.com/easy-designs/easy-lazy-images.js)
 * [Image Lazy Loading](http://callmecavs.github.io/layzr.js/)
 * [Lazy Sizes](https://github.com/aFarkas/lazysizes) - a really good lib
+* [User Timing and Custom Metrics](https://speedcurve.com/blog/user-timing-and-custom-metrics/)
 
 ###Articles
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
@@ -178,6 +179,7 @@ My curated lists of useful stuff
 * [Tweet: RWD Impact to Guardian on Pageload](https://twitter.com/gdndevelopers/status/527881006834282496)
 * [Responsive Nav Plugin](http://responsive-nav.com/)
 * [The Guardian Goes Responsive](http://next.theguardian.com/blog/responsive-takeover/)
+* [PonyFrame Device Iframe Tester](http://ponyframe.com/)
 
 ##News
 * [Web Design Weekly](http://web-design-weekly.com/)
