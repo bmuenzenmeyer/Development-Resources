@@ -250,6 +250,7 @@ My curated lists of useful stuff
 * [SVG Generation from Patterns](http://www.svgeneration.com/)
 * [Animate CSS](http://daneden.github.io/animate.css/)
 * [Hover CSS](http://ianlunn.github.io/Hover/)
+* [Formspree - form on static HTML](http://formspree.io/)
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
