@@ -74,6 +74,12 @@ My curated lists of useful stuff
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
 * [A Vision for Our SASS](http://alistapart.com/article/a-vision-for-our-sass)
 * [SASS Style Guide](http://css-tricks.com/sass-style-guide/)
+* 
+#SVG
+* [http://www.svgeneration.com/](http://www.svgeneration.com/)
+* [https://philiprogers.com/svgpatterns]()https://philiprogers.com/svgpatterns
+* [http://buseca.github.io/patternbolt/](http://buseca.github.io/patternbolt/)
+* [http://eskimoblood.github.io/gerstnerizer/](http://eskimoblood.github.io/gerstnerizer/)
 
 ##Javascript / jQuery
 * [JSONP](http://rambleabouttech.blogspot.com/2012/08/jquery-json-vs-jsonp-using-nodejs.html)
