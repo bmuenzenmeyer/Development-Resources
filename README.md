@@ -59,7 +59,6 @@ My curated lists of useful stuff
 * [Breadcrumbs](http://thecodeplayer.com/walkthrough/css3-breadcrumb-navigation)
 * [Using Flexbox Now](http://designkarma.co.uk/blog/using-flexbox-now)
 * [Flexbox in the Real World](http://www.planningforaliens.com/blog/2014/03/11/real-world-flexbox/?utm_campaign=e35f9ff71b-Responsive_Design_Weekly_102&utm_medium=email&utm_source=Responsive+Design+Weekly&utm_term=0_df65b6d7c8-e35f9ff71b-59004361)
-* [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
 * [10 CSS One Liners to Replace Native Apps](http://alistapart.com/blog/post/ten-css-one-liners-to-replace-native-apps)
 * [Penthouse](https://github.com/pocketjoso/penthouse) - Critical path above the fold CSS
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
@@ -74,12 +73,13 @@ My curated lists of useful stuff
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
 * [A Vision for Our SASS](http://alistapart.com/article/a-vision-for-our-sass)
 * [SASS Style Guide](http://css-tricks.com/sass-style-guide/)
-* 
+
 #SVG
 * [http://www.svgeneration.com/](http://www.svgeneration.com/)
 * [https://philiprogers.com/svgpatterns]()https://philiprogers.com/svgpatterns
 * [http://buseca.github.io/patternbolt/](http://buseca.github.io/patternbolt/)
 * [http://eskimoblood.github.io/gerstnerizer/](http://eskimoblood.github.io/gerstnerizer/)
+* [SVG Clipping](http://sarasoueidan.com/blog/css-svg-clipping/)
 
 ##Javascript / jQuery
 * [JSONP](http://rambleabouttech.blogspot.com/2012/08/jquery-json-vs-jsonp-using-nodejs.html)
