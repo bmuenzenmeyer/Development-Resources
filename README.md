@@ -7,6 +7,7 @@ My curated lists of useful stuff
 * [Web Components](http://www.youtube.com/watch?v=QHxrr6Q82yI)
 * [PhoneGap with HTML/CSS/JS](http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/)
 * [Webdesigner's Checklist](http://webdesignerschecklist.com/)
+* [ESLint example on Travis](https://github.com/mozilla/fxa-content-experiments)
 
 ##UX / Process / Workflow
 * [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/)
