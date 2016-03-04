@@ -68,7 +68,8 @@ My curated lists of useful stuff
 * [HTML Container Width = Content Width](http://demosthenes.info/blog/894/Shrink-Wrap-HTML-containers-with-content-width)
 * [CSS Regression Testing](http://css-tricks.com/automating-css-regression-testing/)
 * [The Media Object Saves Hundreds of Lines of Code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
-* [](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
+* [Blur up image loading technique](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
+* [Calc use cases](http://vincentp.me/blog/use-cases-for-calc/)
 
 #SASS/SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
@@ -235,6 +236,7 @@ My curated lists of useful stuff
 * [Clip Art Alternatives](http://www.vandelaydesign.com/microsoft-clipart-alternatives/)
 * [Free Photos](http://www.freephotosbank.com/)
 * [More Free Photos](http://pixelperfectdigital.com/)
+* [Free alternatives to popular fonts](http://blog.spoongraphics.co.uk/articles/the-best-free-alternatives-to-the-most-popular-fonts)
 
 ###Color Tools
 * [http://color.hailpixel.com/](Full screen color picker)
