@@ -50,6 +50,7 @@ My curated lists of useful stuff
 * [Google Font Explorer](http://codepen.io/katydecorah/pen/vetCA)
 * [Questa Free Font](http://www.fontspring.com/fonts/the-questa-project/questa-complete)
 * [Overpass Font](http://overpassfont.org/)
+* [Viewport Based Typography](http://zellwk.com/blog/viewport-based-typography/)
 
 ##CSS
 * [CSS Guidelines](http://cssguidelin.es/)
@@ -70,6 +71,7 @@ My curated lists of useful stuff
 * [The Media Object Saves Hundreds of Lines of Code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
 * [Blur up image loading technique](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
 * [Calc use cases](http://vincentp.me/blog/use-cases-for-calc/)
+* [CSS Clip Path Editor](http://bennettfeely.com/clippy/)
 
 #SASS/SCSS
 * [Responsive Breakpoints](http://www.sitepoint.com/managing-responsive-breakpoints-sass/)
