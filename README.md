@@ -113,6 +113,7 @@ My curated lists of useful stuff
 * [Image Lazy Loading](http://callmecavs.github.io/layzr.js/)
 * [Lazy Sizes](https://github.com/aFarkas/lazysizes) - a really good lib
 * [User Timing and Custom Metrics](https://speedcurve.com/blog/user-timing-and-custom-metrics/)
+* [https://compressor.io/](https://compressor.io/) - Image compression
 
 ###Articles
 * [Avoiding Unnecessary Paints](http://www.html5rocks.com/en/tutorials/speed/unnecessary-paints/)
