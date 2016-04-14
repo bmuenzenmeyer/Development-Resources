@@ -7,7 +7,17 @@ My curated lists of useful stuff
 * [Web Components](http://www.youtube.com/watch?v=QHxrr6Q82yI)
 * [PhoneGap with HTML/CSS/JS](http://phonegap.com/blog/2013/01/18/my-first-mobile-game-in-html-with-phonegap-build/)
 * [Webdesigner's Checklist](http://webdesignerschecklist.com/)
-* [ESLint example on Travis](https://github.com/mozilla/fxa-content-experiments)
+
+##Styleguides / Design Systems
+* [Color in Design Systems](https://medium.com/@nathanacurtis/color-in-design-systems-a1c80f65fa3#.yp8dv41ty)
+* [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices/)
+* [Building a Pattern Library](https://about.futurelearn.com/blog/pattern-library/)
+* [BBC GEL](http://www.bbc.co.uk/gel)
+* [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
+* [Mozilla Style Guide](http://www.mozilla.org/en-US/styleguide/)
+* [Style Guides are the new Photo Shop](http://www.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-smashing-conference-2012)
+* [Styleguide and Boilerplate Comparison](https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0)
+* [Intuit Kitchen Sink](http://terabytenz.github.io/inuit.css-kitchensink/)* 
 
 ##UX / Process / Workflow
 * [UX Methods and Deliverables](http://uxdesign.cc/ux-methods-deliverables/)
@@ -18,8 +28,6 @@ My curated lists of useful stuff
 * [Atomic Design Presentation](http://uxim15.uie.com/videos/brad-frost)
 * [The ULTIMATE List of 24 Free eBooks on UX and Interface Design](http://www.usefulusability.com/the-ultimate-list-of-24-free-ebooks-on-ux-and-interface-design/) 
 * [Style Tile Browser](http://seesparkbox.com/foundry/our_new_responsive_design_deliverable_the_style_prototype)
-* [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices/)
-* [Building a Pattern Library](https://about.futurelearn.com/blog/pattern-library/)
 * [Excuses to Skip Research](http://muledesign.com/2013/09/excuses-excuses/)
 * [Product Roadmapping](http://www.mindtheproduct.com/2014/07/experiments-roadmapping-gov-uk/)
 * [Product Roadmapping, Prioritisation and Portfolio Management](http://www.mindtheproduct.com/2014/07/product-roadmapping-prioritisation-portfolio/)
@@ -128,14 +136,6 @@ My curated lists of useful stuff
 * [Performance Costs of MVC Frameworks](http://www.filamentgroup.com/lab/mv-initial-load-times.html)
 * [Resource Network Timing](https://developer.chrome.com/devtools/docs/network#resource-network-timing)
 * [Caching and CDN Primer](http://www.foxycart.com/blog/caching-and-cdn)
-
-##Style Guides
-* [BBC GEL](http://www.bbc.co.uk/gel)
-* [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
-* [Mozilla Style Guide](http://www.mozilla.org/en-US/styleguide/)
-* [Style Guides are the new Photo Shop](http://www.slideshare.net/stephenhay/style-guides-are-the-new-photoshop-smashing-conference-2012)
-* [Styleguide and Boilerplate Comparison](https://docs.google.com/spreadsheet/ccc?key=0AiN0QfBTPpOCdDFjWlM0eU1ra21XanZkekxGbjA2WWc#gid=0)
-* [Intuit Kitchen Sink](http://terabytenz.github.io/inuit.css-kitchensink/)
 
 ##Development
 * [External Repository Submodules](http://stackoverflow.com/questions/2140985/how-to-set-up-a-git-project-to-use-an-external-repo-submodule)
