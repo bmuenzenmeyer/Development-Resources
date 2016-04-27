@@ -263,6 +263,7 @@ My curated lists of useful stuff
 * [Animate CSS](http://daneden.github.io/animate.css/)
 * [Hover CSS](http://ianlunn.github.io/Hover/)
 * [Formspree - form on static HTML](http://formspree.io/)
+* [HTML Glyphs](https://css-tricks.com/snippets/html/glyphs/)
 
 ###Fonts
 * [115 Free Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
